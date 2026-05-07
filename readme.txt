@@ -5,6 +5,7 @@ _____________________________________________
 1. Keep the .exe file in same folder as :
 	a> Incidents.xlsx - the Incident report for the day renamed
 	b> Work Orders.xlsx - the Work Order report for the day renamed
+	c> Sample.xlsx - Click on the button called 'Template' to download this
 2. Run the .exe file
 3. report.xlsx will be generated - that is the result to be renamed and used
 _____________________________________________
